@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.Zxuuqdg6-QrbrIGcYvp14QHaEo&pid=Api&P=0&h=180");
+
+}
